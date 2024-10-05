@@ -20,10 +20,20 @@ Ans:- The answer is simple , It is incredibly fast. Redis can store and retrieve
       Data is organised in simple data structures: 
       ===========================================
       
-      The second reason is that Reddit stores all of its data organize in simple data structures
+      The second reason is that Redis stores all of its data or its data organize in simple data structures  like link lists, sorted sets, hash maps and so on.
+      These different data structures have very well known and very well understood performance characteristics.
 
 
-  
+      Redis has simple feature set :
+      =============================
+      Other databases like say PostgreSQL or MySQL etc choose to layer on a feature upon feature to make it easier to use but all those feature comes with big performance penalities.Redis is takes a very 
+      different approach. Rather than stuffing ton of different features into the database, it is kept very simple on purpose.
+
+     ![image](https://github.com/user-attachments/assets/5c19a42c-298d-4a86-b680-dbbd1d49f5b0)
+
+      
+
+      
             
 
 
