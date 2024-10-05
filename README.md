@@ -29,7 +29,8 @@ Ans:- The answer is simple , It is incredibly fast. Redis can store and retrieve
       Other databases like say PostgreSQL or MySQL etc choose to layer on a feature upon feature to make it easier to use but all those feature comes with big performance penalities.Redis is takes a very 
       different approach. Rather than stuffing ton of different features into the database, it is kept very simple on purpose.
 
-![image](https://github.com/user-attachments/assets/5c19a42c-298d-4a86-b680-dbbd1d49f5b0)
+![image](https://github.com/user-attachments/assets/7a515eb3-a2ce-4a10-ac12-38ff83646eef)
+
 
       
 
