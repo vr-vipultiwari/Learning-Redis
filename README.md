@@ -47,6 +47,7 @@ Ans:- The answer is simple , It is incredibly fast. Redis can store and retrieve
 
 ![image](https://github.com/user-attachments/assets/5e59ca7b-e072-49e3-9a1e-a83e653288fd)
 
-    
+![image](https://github.com/user-attachments/assets/5d2cd2d1-6a06-4cb4-aaf9-dd91d97fb174)
+
       
     
