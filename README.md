@@ -34,7 +34,7 @@ Ans:- The answer is simple , It is incredibly fast. Redis can store and retrieve
 ![image](https://github.com/user-attachments/assets/bc053fd2-cf66-4cdf-944b-0f6f288677b9)
 
       
-
+     So in order to use Redis, we have to understand how to fit our data into a limited space. We have to understand how to fit our data or organize it using these simple data structures and we have to                 understand how to work ourselves around this limited feature sets.
       
             
 
