@@ -31,6 +31,7 @@ Ans:- The answer is simple , It is incredibly fast. Redis can store and retrieve
 
 ![image](https://github.com/user-attachments/assets/7a515eb3-a2ce-4a10-ac12-38ff83646eef)
 
+![image](https://github.com/user-attachments/assets/bc053fd2-cf66-4cdf-944b-0f6f288677b9)
 
       
 
