@@ -13,8 +13,7 @@ Ans:- The answer is simple , It is incredibly fast. Redis can store and retrieve
       Accessing data in memory is fast, but getting data that is stored on the hard disk is relatively slow.
       So Redis made a simple decision here, Rather than storing any information on hard disk, it keeps all the data in memory.
 
-     
-![image](https://github.com/user-attachments/assets/cad78b03-b3f5-409b-8493-352f12e336b1)  ![image](https://github.com/user-attachments/assets/0123708b-a389-45f8-b68c-f833230aeef5)
+![image](https://github.com/user-attachments/assets/cad78b03-b3f5-409b-8493-352f12e336b1) ![image](https://github.com/user-attachments/assets/0123708b-a389-45f8-b68c-f833230aeef5)
 
 
       
