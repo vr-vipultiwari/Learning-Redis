@@ -37,8 +37,6 @@ Ans:- The answer is simple , It is incredibly fast. Redis can store and retrieve
      So in order to use Redis, we have to understand how to fit our data into a limited space. We have to understand how to fit our data or organize it using these simple data structures and we have to understand 
      how to work ourselves around this limited feature sets.
       
-            
-
-
+    In order to interact with redis data base we use commands, Commands are simple strings that we send to our database to save or retrieve some information.
       
     
