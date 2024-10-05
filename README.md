@@ -43,5 +43,6 @@ Ans:- The answer is simple , It is incredibly fast. Redis can store and retrieve
 
 ![image](https://github.com/user-attachments/assets/774d5717-364d-4c7d-8a8f-69dbb20b85a6)
 
+    Each data set has specific set of commands to work with
       
     
