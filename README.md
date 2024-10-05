@@ -9,14 +9,18 @@ Ans:- The answer is simple , It is incredibly fast. Redis can store and retrieve
       Redis is fast because of primarily three reasons below 
      
       All data stored in memory :
+      ===========================
+      
       Most databases store all their information between both the memory of a computer and a hard drive.
       Accessing data in memory is fast, but getting data that is stored on the hard disk is relatively slow.
       So Redis made a simple decision here, Rather than storing any information on hard disk, it keeps all the data in memory.
       Now there is a very clear downside to this approach. It means that by default, it can be challenging to work with a dataset that is larger than the amount
       of memory that your computer has. So, for example, if you have a dataset that is 100 gigabytes large, but your computer only has eight gigabytes of memory, that is not going to fit in memory.
 
-![image](https://github.com/user-attachments/assets/cad78b03-b3f5-409b-8493-352f12e336b1) 
-![image](https://github.com/user-attachments/assets/0123708b-a389-45f8-b68c-f833230aeef5)
+      Data is organised in simple data structures: 
+      ===========================================
+      
+      The second reason is that Reddit stores all of its data organize in simple data structures
 
 
   
