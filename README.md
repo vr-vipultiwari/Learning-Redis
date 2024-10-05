@@ -40,7 +40,8 @@ Ans:- The answer is simple , It is incredibly fast. Redis can store and retrieve
     In order to interact with redis data base we use commands, Commands are simple strings that we send to our database to save or retrieve some information.
 
     There are list of datat type which redis supports
-    ![image](https://github.com/user-attachments/assets/774d5717-364d-4c7d-8a8f-69dbb20b85a6)
+
+![image](https://github.com/user-attachments/assets/774d5717-364d-4c7d-8a8f-69dbb20b85a6)
 
       
     
